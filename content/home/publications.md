@@ -4,6 +4,10 @@ draft: false
 weight: 30
 ---
 
+- M. Wilkins, Y. Guo, R. Thakur, P. Dinda, N. Hardavellas, Practical Machine Learning Autotuning for Large-Scale Collective Communication, IEEE Transactions on Parallel and Distributed
+Systems (TPDS), Volume 37, Number 5, May, 2026.  \[[paper](papers/tpds26.pdf)\]
+- K. Hallsby, P.Dinda, Hardware Deserves a REPL, Proceedings of the 5th Workshop on Languages,
+Tools, and Techniques for Accelerator Design (LATTE 2026 @ ASPLOS), March, 2026. \[[paper](papers/latte26.pdf)\]
 - P. Liu, S. Rhee, M. Wilkins, P. Dinda, Parameterized Algorithms and Parameter Selection for Fast GPU-GPU Collective Communication, Proceedings of the 33rd IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems (MASCOTS 2025), October, 2025. \[[paper](papers/gpu_parameterized_collectives.pdf)\]
 - K. Nagaitsev, K. McAfee, K. Hayes, J. Dong, N. Dhiantravan, P. Dinda, Eliminating Hardware Interrupts with Dispersed Interrupt Polling, Technical Report NU-CS-2025-36, Department of Computer Science, Northwestern University, September, 2025. \[[paper](papers/beandip.pdf)\]
 - K. Nagaitsev, G. Dube, K. Hallsby, P. Liu, Q. Jiang, L. Myers, D. Krasowska, A. Butler, R. Xu, P. Dinda, Village: From High Level Parallelism to High Performance, Technical Report NU-CS-2025-33, Department of Computer Science, Northwestern University, August, 2025. \[[paper](papers/nu-cs-2025-33.pdf)\]
