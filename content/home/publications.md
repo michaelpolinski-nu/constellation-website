@@ -9,7 +9,7 @@ weight: 30
 - M. Wilkins, Y. Guo, R. Thakur, P. Dinda, N. Hardavellas, Practical Machine Learning Autotuning for Large-Scale Collective Communication, IEEE Transactions on Parallel and Distributed
 Systems (TPDS), Volume 37, Number 5, May, 2026.  \[[paper](papers/tpds26.pdf)\]
 - K. Nagaitsev, L. Grbcic, S. Williams, C. Iancu, Optimizing PyTorch Inference with LLM-based Multi-Agent Systems, Proceedings of the Ninth Annual Conference on Machine Learning and Systems (MLSys 2026), May, 2026. \[[paper](papers/mlsys2026.pdf)\]
-- K. Hallsby, P.Dinda, Hardware Deserves a REPL, Proceedings of the 5th Workshop on Languages,
+- K. Hallsby, P. Dinda, Hardware Deserves a REPL, Proceedings of the 5th Workshop on Languages,
 Tools, and Techniques for Accelerator Design (LATTE 2026 @ ASPLOS), March, 2026. \[[paper](papers/latte26.pdf)\]
 - T. McMichen, S. Campanoni, Automatic Data Enumeration for Fast Collections, Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026), February, 2026. \[[paper](papers/cgo2026-fastcol.pdf)\]
 - Y. Su, B. Homerding, H. Gao, F. Sossai, Y. Chon, D. August, S. Campanoni, The Parallel-Semantics Program Dependence Graph for Parallel Optimization, Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026), February, 2026. \[[paper](papers/cgo2026-pspdg.pdf)\]
