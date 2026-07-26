@@ -4,13 +4,14 @@ draft: false
 weight: 30
 ---
 
-- Y. Su, Automatic Parallel Execution Plan Selection and Tuning, Doctoral Disseraton, Technical Report NU-CS-2026-24, Department of Computer Science, Northwestern University, June, 2026. \[[dissertation](papers/nu-cs-2026-24.pdf)\] 
+- Y. Su, Automatic Parallel Execution Plan Selection and Tuning, Doctoral Dissertaton, Technical Report NU-CS-2026-24, Department of Computer Science, Northwestern University, June, 2026. \[[thesis](papers/nu-cs-2026-24.pdf)\] 
+- L. Strand, Adaptive Profiling via ML-driven Hardware Counter Orchestration, M.S. Thesis, Technical Report NU-CS-2025-25, Department of Computer Science, Northwestern University, June, 2026.  \[[thesis](https://www.mccormick.northwestern.edu/computer-science/documents/nu-cs-2026-25.pdf)\]
 - M. Wilkins, Y. Guo, R. Thakur, P. Dinda, N. Hardavellas, Practical Machine Learning Autotuning for Large-Scale Collective Communication, IEEE Transactions on Parallel and Distributed
 Systems (TPDS), Volume 37, Number 5, May, 2026.  \[[paper](papers/tpds26.pdf)\]
 - K. Hallsby, P.Dinda, Hardware Deserves a REPL, Proceedings of the 5th Workshop on Languages,
 Tools, and Techniques for Accelerator Design (LATTE 2026 @ ASPLOS), March, 2026. \[[paper](papers/latte26.pdf)\]
-- T. McMichen, S. Campanoni, Automatic Data Enumeration for Fast Collections, Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026), February, 2026. \\[paper](papers/cgo2026-fastcol.pdf)\]
-- Y. Su, B. Homerding, H. Gao, F. Sossai, Y. Chon, D. August, S. Campanoni, The Parallel-Semantics Program Dependence Graph for Parallel Optimization, Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026), February, 2026. \\[paper](papers/cgo2026-pspdg.pdf)\]
+- T. McMichen, S. Campanoni, Automatic Data Enumeration for Fast Collections, Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026), February, 2026. \[[paper](papers/cgo2026-fastcol.pdf)\]
+- Y. Su, B. Homerding, H. Gao, F. Sossai, Y. Chon, D. August, S. Campanoni, The Parallel-Semantics Program Dependence Graph for Parallel Optimization, Proceedings of the IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2026), February, 2026. \[[paper](papers/cgo2026-pspdg.pdf)\]
 - P. Liu, S. Rhee, M. Wilkins, P. Dinda, Parameterized Algorithms and Parameter Selection for Fast GPU-GPU Collective Communication, Proceedings of the 33rd IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems (MASCOTS 2025), October, 2025. \[[paper](papers/gpu_parameterized_collectives.pdf)\]
 - K. Nagaitsev, K. McAfee, K. Hayes, J. Dong, N. Dhiantravan, P. Dinda, Eliminating Hardware Interrupts with Dispersed Interrupt Polling, Technical Report NU-CS-2025-36, Department of Computer Science, Northwestern University, September, 2025. \[[paper](papers/beandip.pdf)\]
 - K. Nagaitsev, G. Dube, K. Hallsby, P. Liu, Q. Jiang, L. Myers, D. Krasowska, A. Butler, R. Xu, P. Dinda, Village: From High Level Parallelism to High Performance, Technical Report NU-CS-2025-33, Department of Computer Science, Northwestern University, August, 2025. \[[paper](papers/nu-cs-2025-33.pdf)\]
