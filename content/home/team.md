@@ -41,6 +41,7 @@ weight: 20
 - [Liam Strand](https://liam-strand.github.io/) (Northwestern)
   
 ### Undergrad Students and REU Students
+- [Hasan Aybars Ari](https://www.hasanaybarsari.com/) (Northwestern)
 - [Luke Arnold](https://www.linkedin.com/in/luke-michael-arnold/) (Northwestern)
 - [Tyler Dempski](https://www.linkedin.com/in/tylerdempski/) (Northwestern)
 - Nadharm Dhiantravan (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
@@ -52,6 +53,7 @@ weight: 20
 - [Peizhi Liu](https://www.linkedin.com/in/peizhiliu/) (Northwestern) 
 - [Nikola Maruszewski](https://marusz.com/) (Northwestern)
 - [Kevin McAfee](https://www.linkedin.com/in/kevinmcafee/) (Northwestern) 
+- [Nader Rahhal](https://www.linkedin.com/in/naderrahhal/) (Northwestern)
 - Sean Rhee (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - [Carson Surmeier](https://about.surmeier.us) (Northwestern)
 - [Garrett Weil](https://www.linkedin.com/in/garrettweil/)  (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
