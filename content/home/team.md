@@ -16,6 +16,7 @@ weight: 20
 
 ### Ph.D. Students and Postdocs
 
+- [Alex Butler](https://www.linkedin.com/in/lxbtlr/) (Northwestern)
 - [Enrico Deiana](https://www.deiana.org/) (Northwestern)
 - [Griffin Dube](https://gadube.github.io/) (Northwestern)
 - [Karl Hallsby](https://karl.hallsby.com/) (Northwestern)
