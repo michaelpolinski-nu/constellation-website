@@ -35,6 +35,7 @@ weight: 20
 - [Michael Wilkins](https://mjwilkins.org) (Northwestern)
 
 ### M.S. Students
+- [Akhash Deo](https://akashdeo.dev/) (Northwestern)
 - [Yankai Jiang](https://lukejyk.github.io/) (Northwestern)
 - Qinze Jiang (Northwestern)
 - [Jiaxiang Li](https://www.linkedin.com/in/jiaxiang-li-254666231/) (Northwestern)
@@ -50,6 +51,7 @@ weight: 20
 - [Karl Hallsby](https://karl.hallsby.com/) (Illinois Institute of Techology)
 - [Kevin Hayes](https://www.linkedin.com/in/kevin-hayes-b88842261) (Northwestern University) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - [Josh Karpel](https://www.linkedin.com/in/joshua-karpel/) (Northwestern)
+- [Leyla Latifova](https://www.linkedin.com/in/leyla-latifova) (ETHZ (Northwestern Visit))
 - [Peizhi Liu](https://www.linkedin.com/in/peizhiliu/) (Northwestern) 
 - [Nikola Maruszewski](https://marusz.com/) (Northwestern)
 - [Kevin McAfee](https://www.linkedin.com/in/kevinmcafee/) (Northwestern) 
