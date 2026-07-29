@@ -40,6 +40,7 @@ weight: 20
 - Qinze Jiang (Northwestern)
 - [Jiaxiang Li](https://www.linkedin.com/in/jiaxiang-li-254666231/) (Northwestern)
 - [Liam Strand](https://liam-strand.github.io/) (Northwestern)
+- [Hanming Wang](https://www.linkedin.com/in/hanming-wang-5193b4190/) (Northwestern)
   
 ### Undergrad Students and REU Students
 - [Hasan Aybars Ari](https://www.hasanaybarsari.com/) (Northwestern)
@@ -57,6 +58,7 @@ weight: 20
 - [Kevin McAfee](https://www.linkedin.com/in/kevinmcafee/) (Northwestern) 
 - [Nader Rahhal](https://www.linkedin.com/in/naderrahhal/) (Northwestern)
 - Sean Rhee (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
+- [Henron Ruan](https://www.linkedin.com/in/henron-ruan-b3144732a/) (Northwestern)
 - [Carson Surmeier](https://about.surmeier.us) (Northwestern)
 - [Garrett Weil](https://www.linkedin.com/in/garrettweil/)  (Northwestern) [CRA Outstanding Undergraduate Researcher Honorable Mention]
 - [Ruiqi (Jerry) Xu](https://www.linkedin.com/in/jerry-xu-ruiqi/) (Northwestern)
